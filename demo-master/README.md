@@ -27,7 +27,7 @@ $ composer create-project symfony/symfony-demo my_project
 ```
 
 Usage
------
+
 
 There's no need to configure anything to run the application. If you have
 installed the [Symfony client][4] binary, run this command to run the built-in
